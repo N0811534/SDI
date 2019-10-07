@@ -1,2 +1,5 @@
 # SDI
-Software Design &amp; Implementation
+Software Design and Implementation
+## Project Description
+## Group B
+## Salim Maaji
